@@ -1,0 +1,23 @@
+#result{
+ background-color: black;
+ width: 315px;
+ height: 40px;
+ padding: 5px;
+ margin: 5px;
+ color: white;
+ font-size: 25px;
+ text-align: right;
+}
+
+input{
+ border: 1px solid black;
+ display: inline-block;
+ width: 70px;
+ height: 35px;
+ padding: 5px;
+ margin: 5px;
+}
+
+.btn2{
+ width: 155px;
+}
